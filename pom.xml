@@ -16,6 +16,7 @@
         <module>cloud-provider-payment8002</module>
         <module>cloud-provider-payment8004</module>
         <module>cloud-consumerzk-order80</module>
+        <module>algs</module>
     </modules>
     <packaging>pom</packaging>
 
